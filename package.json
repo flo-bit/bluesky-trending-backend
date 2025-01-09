@@ -1,6 +1,6 @@
 {
   "name": "bun",
-  "module": "http.ts",
+  "module": "app.ts",
   "type": "module",
   "devDependencies": {
     "@flydotio/dockerfile": "latest",
